@@ -1,11 +1,5 @@
 # 
 
-
-## A PROPOS DE MOI
-
-- **Currently Learning Lua**
-
-#
 # 💻 Tech Stacks:
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
@@ -15,8 +9,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=E3rkyn&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
@@ -39,7 +31,7 @@
 #
 
 #
-## MES RESEAUX SOCIAUX
+## ME CONTACTER :
 
  1. **Discord** : earkyn
 
