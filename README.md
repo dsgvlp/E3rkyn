@@ -3,12 +3,12 @@
 # 💻 Tech Stacks:
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=E3rkyn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=E3rkyn&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=E3rkyn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=dsgvlp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dsgvlp&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dsgvlp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=E3rkyn&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dsgvlp&icon=2&color=1)](https://visitcount.itsvg.in)
 
 ---
 
@@ -26,13 +26,13 @@
 #
 #
 ## NOMBRE DE VISITEUR
-<img src="https://profile-counter.glitch.me/E3rkyn/count.svg" style="max-width:100%;">
+<img src="https://profile-counter.glitch.me/dsgvlp/count.svg" style="max-width:100%;">
 
 #
 
 #
 ## ME CONTACTER :
 
- 1. **Discord** : earkyn
+ 1. **Discord** : loadassetdata
 
 #
